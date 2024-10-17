@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Sruthi Shankar, Ankur Banerjee",
+      "title": "China stimulus pushes global shares to new peak, boosts commodities - Reuters",
+      "description": "World stocks hit a record high on Tuesday after China unveiled stimulus measures to support its economy and stock markets, sending Asian and European shares higher and triggering a bounce in commodity prices.",
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/MPY3XSQBFNPIZCIZJDUIF7IBSA.jpg?auth=c9d65778108513ba069024eda025b13317b59553b999937f011260439b2e0b6f&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-24T11:43:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jacob Pramuk",
+      "title": "5 things to know before the stock market opens Tuesday - CNBC",
+      "description": "Here are the most important news items that investors need to start their trading day.",
+      "url": "https://www.cnbc.com/2024/09/24/5-things-to-know-before-the-stock-market-opens-tuesday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244966-16847935762023-05-22t212314z_1510236066_rc2w31ayaot1_rtrmadp_0_usa-fed-kashkari.jpeg?v=1695820658&w=1920&h=1080",
+      "publishedAt": "2024-09-24T11:33:24Z",
+      "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Inching higher\r\nU.S. stocks climbed again Monday as investors digest the Federal Reserve's major rate cut la… [+3459 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Natasha Bertrand, Oren Liebermann, Jennifer Hansler",
+      "title": "US officials work feverishly to stop Israel-Hezbollah confrontation ‘spiraling to a regional war’ - CNN",
+      "description": "The US believes Israel has significantly weakened Hezbollah in strikes over the last week but is still working feverishly behind the scenes to try to convince it not to escalate further and launch a ground incursion into Lebanon over concerns the intensified …",
+      "url": "https://www.cnn.com/2024/09/24/politics/us-officials-israel-hezbollah-stop-regional-war/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24267353593962.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-24T11:24:00Z",
+      "content": "The US believes Israel has significantly weakened Hezbollah in strikes over the last week but is still working feverishly behind the scenes to try to convince it not to escalate further and launch a … [+6266 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google’s Gemini AI might soon appear in your corporate Workspace - The Verge",
+      "description": "Google is adding Gemini AI and new security tools to its Workspace productivity suite as standard, which could see the chatbot adopted by millions more users.",
+      "url": "https://www.theverge.com/2024/9/24/24252934/google-workspace-gemini-ai-security-assistant",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nha2O8ap-F3u1XEvSZzqy9T3qBA=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25290332/STK255_Google_Gemini_B.jpg",
+      "publishedAt": "2024-09-24T11:00:00Z",
+      "content": "Googles Gemini AI might soon appear in your corporate Workspace\r\nGoogles Gemini AI might soon appear in your corporate Workspace\r\n / Workspace customers are getting new security features and will no … [+1632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "Gilberto Manzano",
+      "title": "NFL Week 3 Winners and Losers: Unheralded Quarterbacks Making Their Mark - Sports Illustrated",
+      "description": "Sam Darnold, Justin Fields and Geno Smith are making the case for a new approach to the QB position. Plus, the Jets finally get what they wanted from Aaron Rodgers while the Dolphins may already be done.",
+      "url": "https://www.si.com/nfl/week-3-winners-and-losers-sam-darnold-justin-fields-geno-smith",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1703,h_957,x_97,y_259/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01j8h3zdbqr0che82jje.jpg",
+      "publishedAt": "2024-09-24T11:00:00Z",
+      "content": "Soon NFL fans will start a petition for the league to investigate how the Kansas City Chiefs continue to come out on the right end of controversial finishes\r\n. \r\nIm sure someone on Reddit has already… [+13639 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Michael David Smith",
+      "title": "Joe Burrow: Jayden Daniels was “unbelievable” in Commanders’ win over Bengals - NBC Sports",
+      "description": "Monday night's Commanders-Bengals game featured two quarterbacks who won the Heisman Trophy at LSU, Washington's Jayden Daniels and Cincinnati's Joe Burrow.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-jayden-daniels-was-unbelievable-in-commanders-win-over-bengals",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/679babc/2147483647/strip/true/crop/3000x1688+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F80%2F6c33e2f745beba24a9090c216613%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2173339650",
+      "publishedAt": "2024-09-24T10:18:51Z",
+      "content": "Monday nights Commanders-Bengals game featured two quarterbacks who won the Heisman Trophy at LSU, Washingtons Jayden Daniels and Cincinnatis Joe Burrow. After Daniels came out on top, all Burrow cou… [+710 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kathleen Magramo, Antoinette Radford",
+      "title": "Israel strikes Hezbollah targets as conflict intensifies - CNN",
+      "description": "Israeli airstrikes targeting militant group Hezbollah in Lebanon killed nearly 500 people and wounded 1,600 others on Monday — the deadliest day in the country in nearly two decades. Follow for live updates",
+      "url": "https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-24-24-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-24t083513z-2099667105-rc2w6aavvfw4-rtrmadp-3-israel-palestinians-lebanon.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-24T10:03:00Z",
+      "content": "Lebanon may be no stranger to conflict. But Monday was the deadliest day the country has seen in a generation.  \r\nIsraels aerial bombardment killed nearly 500 people, including at least 35 children a… [+2230 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Ukrainian President Volodymyr Zelenskyy discusses 'Victory Plan' he will present to Biden: GMA exclusive - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/Politics/ukrainian-president-volodymyr-zelenskyy-discusses-victory-plan-present/story?id\\\\u003d113936347",
+      "urlToImage": null,
+      "publishedAt": "2024-09-24T10:02:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-24T10:02:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "The Weather Channel",
+      "title": "Hurricane Danger For Florida, Gulf Coast; Hurricane Watches Issued For FL Coast - The Weather Channel",
+      "description": "Yet another Gulf hurricane threat is on the table, and this one could be strong. Here's what you need to know right now.",
+      "url": "https://weather.com/storms/hurricane/news/2024-09-23-tropical-storm-hurricane-helene-forecast-gulf-florida",
+      "urlToImage": "https://s.w-x.co/PTC_prim_0924a.jpg",
+      "publishedAt": "2024-09-24T09:38:00Z",
+      "content": "At a Glance\r\n\u003Cul\u003E\u003Cli\u003EHurricane and tropical storm watches issued for parts of Florida\u003C/li\u003E\u003Cli\u003EIt is likely to be a hurricane in the Gulf of Mexico by Wednesday. \u003C/li\u003E\u003Cli\u003EMost forecast models suggest … [+5074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Rebecca Picciotto",
+      "title": "Biden's UN speech will highlight his diplomatic successes, amid wars in the Middle East, Ukraine, Sudan - CNBC",
+      "description": "The Biden administration is working towards a ceasefire and hostage deal in Gaza, even as the president's term comes to a close.",
+      "url": "https://www.cnbc.com/2024/09/24/biden-un-speech-ukraine-gaza-sudan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303011-16951338482023-09-19t142859z_156064745_rc2qb3au7tde_rtrmadp_0_un-assembly.jpeg?v=1695138215&w=1920&h=1080",
+      "publishedAt": "2024-09-24T09:00:01Z",
+      "content": "President Joe Biden will attempt to square the diplomatic achievements and goals of his presidency with the grim reality of wars in the Middle East, Ukraine and Sudan during a major address Tuesday a… [+3894 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Hurricane John's rapid intensification catches Mexico tourist hubs of Acapulco and Puerto Escondido off guard - CBS News",
+      "description": "Hurricane John's rapid intensification forced Mexico's Pacific tourist hubs of Acapulco and Puerto Escondido to brace quickly for a Category 3 storm.",
+      "url": "https://www.cbsnews.com/news/hurricane-john-mexico-rapid-intensification-acapulco-puerto-escondido/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/24/327a7bae-ae38-45b9-b957-96cd53def246/thumbnail/1200x630g1/6f251f2095e9aeb96681cf627631cd58/hurricane-john-mexico-2024.jpg?v=d735195a810d7336123786e9bed29d16",
+      "publishedAt": "2024-09-24T08:39:43Z",
+      "content": "Puerto Escondido, Mexico — Hurricane John struck Mexico's southern Pacific coast with life-threatening flood potential after growing into a major hurricane in a matter of hours. It came ashore near t… [+5201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Landon Mion",
+      "title": "US grocery stores could be without popular fruit within weeks as 45,000 dockworkers threaten to strike - Fox Business",
+      "description": "American consumers may soon have to endure empty fruit aisles and soaring prices if 45,000 dockworkers threatening to strike end up walking off the job.",
+      "url": "https://www.foxbusiness.com/economy/us-grocery-stores-could-without-popular-fruit-within-weeks-45000-dockworkers-threaten-strike",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Chiquita.jpg?ve=1&tl=1",
+      "publishedAt": "2024-09-24T08:27:00Z",
+      "content": "American consumers may soon have to do without some popular fruits, including bananas, when they are grocery shopping, as fruit aisles could be empty and prices may soar if 45,000 dockworkers threate… [+2415 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Maziar Motamedi",
+      "title": "What’s the UN’s new ‘Pact for the Future’, and why did Russia oppose it? - Al Jazeera English",
+      "description": "Like many UN documents, it’s packed with big goals but is short on specifics about how to achieve them.",
+      "url": "https://www.aljazeera.com/news/2024/9/24/whats-the-uns-new-pact-for-the-future-and-why-did-russia-oppose-it",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/2024-09-22T182830Z_837432971_RC2U5AAIH84C_RTRMADP_3_UN-SUMMIT-1727088871.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-09-24T07:41:15Z",
+      "content": "The United Nations General Assembly (UNGA) has adopted an ambitious pact that aims to make the organisation more relevant and effective on the global stage in the 21st century amid mounting criticism… [+8428 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Lewis, Jessica Donati, Kaylee Kang",
+      "title": "Why West Africa is now the world's terrorism hotspot - Reuters",
+      "description": "Conflict in the sub-Saharan Sahel region rarely garners global headlines, yet it is contributing to a sharp rise in migration towards Europe.",
+      "url": "https://www.reuters.com/world/africa/west-africa-becomes-global-terrorism-hotspot-western-forces-leave-2024-09-24/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZOFGYLKCXZMPVBXG7JJL2ZOS6I.jpg?auth=82efd5999eb166f15671849127521498c7eb377807d391f96ee5d9a07a7b5a87&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-24T06:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Michael DiRocco",
+      "title": "Jags' Pederson vague on Lawrence, vows changes - ESPN",
+      "description": "Jaguars coach Doug Pederson isn't ruling anything out when it comes to making changes in the wake of his team's 0-3 start, and he was noncommittal even regarding quarterback Trevor Lawrence after a 47-10 loss to the Bills.",
+      "url": "https://www.espn.com/nfl/story/_/id/41410432/jaguars-coach-pederson-noncommittal-lawrence-loss",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0924%2Fr1390990_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-09-24T05:13:00Z",
+      "content": "ORCHARD PARK, N.Y. -- Jacksonville Jaguars coach Doug Pederson isn't ruling anything out when it comes to making changes in the wake of his team's 0-3 start.\r\nMaybe not even regarding quarterback Tre… [+3255 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JONEL ALECCIA",
+      "title": "Severe obesity is on the rise in the US - The Associated Press",
+      "description": "Obesity is high and holding steady in the U.S. About 4 in 10 Americans have obesity overall and about 1 in 10 have severe obesity. That's according to new government research. The overall rate has not changed significantly in the past decade, even as the rate…",
+      "url": "https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2896c53/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2Fe4%2Ff5f2427d43267bd7da42684a1e89%2Fec977ae2a4c74251b392d60d33061a91",
+      "publishedAt": "2024-09-24T04:19:00Z",
+      "content": "Obesity is high and holding steady in the U.S., but the proportion of those with severe obesity especially women has climbed since a decade ago, according to new government research.\r\nThe U.S. obesit… [+4105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "ScienceAlert",
+      "title": "World's Oceans on Verge of Being Too Acidic to Sustain Life, Scientists Warn - ScienceAlert",
+      "description": null,
+      "url": "https://www.sciencealert.com/worlds-oceans-on-verge-of-being-too-acidic-to-sustain-life-scientists-warn",
+      "urlToImage": null,
+      "publishedAt": "2024-09-24T04:11:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Brad Crawford",
+      "title": "Projected College Football Playoff bracket: Three teams drop out, Alabama vs. Georgia highlights weekly update - CBS Sports",
+      "description": "Meanwhile, the SEC's battle of Alabama vs. Georgia highlights a robust slate with major conference and playoff implications.",
+      "url": "https://www.cbssports.com/college-football/news/projected-college-football-playoff-bracket-three-teams-drop-out-alabama-vs-georgia-highlights-weekly-update/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/23/def1510c-d08e-4f83-bc34-ad1ee8f2b92f/thumbnail/1200x675/6e1915eef56e06ef42f0b3040fb98cc1/carsonbeckalabama-pg.jpg",
+      "publishedAt": "2024-09-24T04:00:35Z",
+      "content": "All eyes are on the SEC in Week 5 as Georgia's trip to Alabama is the main event headlining an expansive weekend of action across college football. Currently penned as unanimous choices to reach the … [+10397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Suspect described Trump assassination attempt in pre-written note - BBC.com",
+      "description": "The letter was dropped off at the home of a witness several months before the incident in Florida.",
+      "url": "https://www.bbc.com/news/articles/c89ly20vvgvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/686a/live/6f3f6bc0-79ba-11ef-b282-4535eb84fe4b.jpg",
+      "publishedAt": "2024-09-24T02:54:08Z",
+      "content": "A suspected gunman arrested near Donald Trump's golf-course wrote a note months earlier saying he intended to kill the former president, a court filing shows.\r\n\"This was an assassination attempt on D… [+3713 chars]"
+    }
+  ]
+}
