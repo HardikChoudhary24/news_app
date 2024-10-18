@@ -23,7 +23,6 @@ class DBHelper {
       db.execute(
         "Create table ${ArticleListTable.tableName} (${ArticleListTable.id} INTEGER PRIMARY KEY AUTOINCREMENT, ${ArticleListTable.url} TEXT, ${ArticleListTable.title} TEXT, ${ArticleListTable.thumbnail} TEXT, ${ArticleListTable.date} Text, ${ArticleListTable.authors} TEXT)",
       );
-      print("Table created  ${ArticleListTable.tableName}");
       db.execute(
         "Create table ${SavedArticlesTable.tableName} (${SavedArticlesTable.id} INTEGER PRIMARY KEY AUTOINCREMENT, ${SavedArticlesTable.url} TEXT , ${SavedArticlesTable.title} TEXT, ${SavedArticlesTable.content} TEXT, ${SavedArticlesTable.authors} TEXT, ${SavedArticlesTable.excerpt} Text, ${SavedArticlesTable.thumbnail} Text, ${SavedArticlesTable.date} Text, ${SavedArticlesTable.language} VARCHAR(4))",
       );

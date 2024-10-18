@@ -32,14 +32,17 @@ class ArticleListTable {
     final data = await db.rawQuery(
         "SELECT ${ArticleListTable.title}, ${ArticleListTable.url}, ${ArticleListTable.thumbnail}, ${ArticleListTable.date}, ${ArticleListTable.authors} FROM ${ArticleListTable.tableName}");
     List<Article> list = [];
-    data.forEach((value) {
-      list.add(Article.fromJson(value));
-    });
+    for(int i =0;i<data.length;i++){
+      list.add(Article.fromJson(data[i]));
+    }
+    // data.forEach((value) {
+    //   list.add(Article.fromJson(value));
+    // });
     return ArticleList(data: list);
   }
 
   static void deleteAll() async {
     Database db = await DBHelper.getInstance.getDb();
-    final data = await db.rawDelete("DELETE FROM $tableName");
+    await db.rawDelete("DELETE FROM $tableName");
   }
 }
